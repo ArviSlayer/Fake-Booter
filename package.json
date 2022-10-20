@@ -1,0 +1,18 @@
+{
+  "name": "arvis-fake-booter",
+  "version": "1.0.0",
+  "description": "Eğlence Amaçlı Yazılan Bir Fake Booter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "ArviS#0011",
+  "license": "ISC",
+  
+  "dependencies": {
+    "braille-pattern-cli-loading-indicator": "0.0.4",
+    "colors": "^1.4.0",
+    "readline": "^1.3.0"
+  }
+}
